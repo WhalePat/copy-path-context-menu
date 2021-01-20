@@ -1,4 +1,4 @@
-; Created by Created by https://github.com/WhalePat
+; Created by https://github.com/WhalePat
 ; Official repository https://github.com/WhalePat/copy-path-context-menu
 
 ; Sets LaunchArgument to false if there is no launch arguments
