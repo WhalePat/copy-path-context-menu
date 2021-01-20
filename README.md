@@ -12,7 +12,7 @@ A small application to add context menu entries to Windows Explorer which copy t
 ![Folder background](/example-images/folder-background-example.png)
 
 ## How do I compile this app?
-*Comming soon*
+*Coming soon*
 
 ### License
 I ain't a lawyer, feel free to modify and redistribute this app however please **do not** remove the credits 🙃
